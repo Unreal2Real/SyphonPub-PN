@@ -1,0 +1,2 @@
+# Preserve the upstream bytes used by Vendor/SyphonSDK/SHA256SUMS.
+Vendor/SyphonSDK/** -text -whitespace linguist-vendored
