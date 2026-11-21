@@ -1,0 +1,54 @@
+2026-11-19T01:09:24.661+08:00 id=17305 pid=63975 layer=0 on=1 frame=-752,-1080,1920,1080 title=SyphonPub-Keynote-Audience-QA | page=page2-four-ruler-marks home-box=none
+2026-11-19T01:09:24.663+08:00 matching-qa-windows=1 front-begin=com.openai.codex front-end=com.openai.codex
+2026-11-19T01:09:25.250+08:00 id=17305 pid=63975 layer=0 on=1 frame=-752,-1080,1920,1080 title=SyphonPub-Keynote-Audience-QA | page=page2-four-ruler-marks home-box=none
+2026-11-19T01:09:25.250+08:00 matching-qa-windows=1 front-begin=com.openai.codex front-end=com.openai.codex
+2026-11-19T01:09:25.866+08:00 id=17305 pid=63975 layer=0 on=1 frame=-752,-1080,1920,1080 title=SyphonPub-Keynote-Audience-QA | page=page2-four-ruler-marks home-box=none
+2026-11-19T01:09:25.867+08:00 matching-qa-windows=1 front-begin=com.openai.codex front-end=com.openai.codex
+2026-11-19T01:09:26.467+08:00 id=17305 pid=63975 layer=0 on=1 frame=-752,-1080,1920,1080 title=SyphonPub-Keynote-Audience-QA | page=page2-four-ruler-marks home-box=none
+2026-11-19T01:09:26.467+08:00 matching-qa-windows=1 front-begin=com.openai.codex front-end=com.openai.codex
+2026-11-19T01:09:27.083+08:00 id=17305 pid=63975 layer=0 on=1 frame=-752,-1080,1920,1080 title=SyphonPub-Keynote-Audience-QA | page=page2-four-ruler-marks home-box=none
+2026-11-19T01:09:27.083+08:00 matching-qa-windows=1 front-begin=com.openai.codex front-end=com.openai.codex
+LOCATED id=17305 title=SyphonPub-Keynote-Audience-QA layer=0 server=SyphonPub-QA-Windowed-a4132c9c-e615-4a88-a0fc-5ab4dd8bbafc
+STREAM 3840.0x2160.0 fps=30
+FIRST GPU FRAME
+TEMP-SERVER-STOP
+frame=7 size=3840x2160 page2-four-ruler-marks
+frame=13 size=3840x2160 page2-four-ruler-marks
+frame=19 size=3840x2160 page2-four-ruler-marks
+frame=25 size=3840x2160 page2-four-ruler-marks
+frame=32 size=3840x2160 page2-four-ruler-marks
+frame=38 size=3840x2160 page2-four-ruler-marks
+frame=44 size=3840x2160 page2-four-ruler-marks
+frame=50 size=3840x2160 page2-four-ruler-marks
+frame=57 size=3840x2160 page2-four-ruler-marks
+frame=62 size=3840x2160 page2-four-ruler-marks
+frame=68 size=3840x2160 page2-four-ruler-marks
+frame=75 size=3840x2160 page2-four-ruler-marks
+frame=81 size=3840x2160 page2-four-ruler-marks
+frame=87 size=3840x2160 page2-four-ruler-marks
+frame=94 size=3840x2160 page2-four-ruler-marks
+frame=100 size=3840x2160 page2-four-ruler-marks
+frame=106 size=3840x2160 page2-four-ruler-marks
+frame=112 size=3840x2160 page2-four-ruler-marks
+frame=119 size=3840x2160 page2-four-ruler-marks
+frame=125 size=3840x2160 page2-four-ruler-marks
+frame=131 size=3840x2160 page2-four-ruler-marks
+frame=138 size=3840x2160 page2-four-ruler-marks
+frame=144 size=3840x2160 page2-four-ruler-marks
+frame=150 size=3840x2160 page2-four-ruler-marks
+frame=157 size=3840x2160 page2-four-ruler-marks
+frame=163 size=3840x2160 page2-four-ruler-marks
+frame=169 size=3840x2160 page2-four-ruler-marks
+frame=176 size=3840x2160 page2-four-ruler-marks
+frame=182 size=3840x2160 page2-four-ruler-marks
+frame=188 size=3840x2160 page2-four-ruler-marks
+frame=194 size=3840x2160 page2-four-ruler-marks
+frame=201 size=3840x2160 page2-four-ruler-marks
+frame=207 size=3840x2160 page2-four-ruler-marks
+frame=213 size=3840x2160 page2-four-ruler-marks
+frame=219 size=3840x2160 page2-four-ruler-marks
+frame=225 size=3840x2160 page2-four-ruler-marks
+frame=232 size=3840x2160 page2-four-ruler-marks
+frame=238 size=3840x2160 page2-four-ruler-marks
+frame=244 size=3840x2160 page2-four-ruler-marks
+confirmed-page2=39 first=7 last=244 frame-notices=245 source-retired=1
